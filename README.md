@@ -1,11 +1,27 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C4E0E5&background=FFFFFF00&lines=Hey!+%F0%9F%91%8B++I'm+Amir!;Nice+to+meet+u)](https://git.io/typing-svg)
 
-<!--
-**amirdeljouyi/amirdeljouyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently doing my PhD at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) , and in the [TestShift Lab](https://testshiftproject.github.io/).
 
-Here are some ideas to get you started:
+#### You can find my projects in several categories:
 
-- 🔭 I’m currently working on ...
+- My PhD (Software Testing):
+   * [Stack-Tracing](https://github.com/amirdeljouyi/stack-tracing)
+
+- My Master (MDD + Web Development):
+   * [MDD4REST](https://github.com/MDD4REST)
+   
+- Machine Learning:
+   * [Graph Coloring](https://github.com/amirdeljouyi/graph-coloring)
+   * [Genetic Algorithm on K-Means Clustering](https://github.com/amirdeljouyi/Genetic-Algorithm-on-K-Means-Clustering)
+   * [Fraud-Detection-Divar](https://github.com/amirdeljouyi/Fraud-Detection-Divar)
+   
+- Web Development:
+   * GeoDeck (unfortunately is private 
+   * [Coursware](https://github.com/amirdeljouyi/courseware)
+
+- Semantic Web, Scrapping:
+   * Scrapping Data of hardware devices (
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
