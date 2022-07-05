@@ -1,12 +1,14 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C4E0E5&background=FFFFFF00&lines=Hey!+%F0%9F%91%8B++I'm+Amir!;Nice+to+meet+u)](https://git.io/typing-svg)
 
-- 🔭 I am currently doing my PhD at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) , and in the [TestShift Lab](https://testshiftproject.github.io/).
-- 🌱 I’m currently learning Dutch and dancing :D
+- 🔭 I am currently doing my Ph.D. at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) , and in the [TestShift Lab](https://testshiftproject.github.io/).
+- 🌱 I’m currently focused on improving my languages skill, including learning ```Dutch``` and improving ```my English```
+- 📚 I'm currently reading ```the course of love``` by Alain de Botton
 - 😄 Pronouns: he / his 
+- 💫 I'm interested in photography (find my [Unsplash](https://unsplash.com/@amirdeljuyi) 😄), cycling, dancing and gifs
 
 #### You can find my projects in several categories:
 
-- My PhD (Software Testing):
+- My Ph.D. (Software Testing):
    * [Stack-Tracing](https://github.com/amirdeljouyi/stack-tracing)
 - My Master (MDD + Web Development):
    * [MDD4REST](https://github.com/MDD4REST)
@@ -15,10 +17,10 @@
    * [Genetic Algorithm on K-Means Clustering](https://github.com/amirdeljouyi/Genetic-Algorithm-on-K-Means-Clustering)
    * [Fraud-Detection-Divar](https://github.com/amirdeljouyi/Fraud-Detection-Divar)
 - Web Development:
-   * GeoDeck (unfortunately is private 
+   * GeoDeck (unfortunately is private)
    * [Coursware](https://github.com/amirdeljouyi/courseware)
 - Semantic Web, Scrapping:
-   * Scrapping Data of hardware devices (https://github.com/amirdeljouyi/Hardware-Ontology-Scrapping)
-   * https://github.com/amirdeljouyi/Hardware-Ontology-Client-Based-SWRLAPI
+   * [Scrapping Data of hardware devices](https://github.com/amirdeljouyi/Hardware-Ontology-Scrapping)
+   * [Client for running queries on the hardware ontology](https://github.com/amirdeljouyi/Hardware-Ontology-Client-Based-SWRLAPI)
 
 
