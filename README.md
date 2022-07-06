@@ -1,10 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C4E0E5&background=FFFFFF00&lines=Hey!+%F0%9F%91%8B++I'm+Amir!;Nice+to+meet+u)](https://git.io/typing-svg)
 
-- 🔭 I am currently doing my Ph.D. at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) , and in the [TestShift Lab](https://testshiftproject.github.io/).
-- 🌱 I’m currently focused on improving my languages skill, including learning ```Dutch``` and improving ```my English```
+- 🔭 I am currently doing my Ph.D. at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/), and in the [TestShift Lab](https://testshiftproject.github.io/).
+- 🌱 It is my current priority to improve my skills in ```languages```, including learning ```Dutch``` and becoming more proficient in ```English```
 - 📚 I'm currently reading ```the course of love``` by Alain de Botton
+- 💫 I enjoy photography (checkout my [Unsplash](https://unsplash.com/@amirdeljuyi) 😄), cycling, dancing and gifs
 - 😄 Pronouns: he / his 
-- 💫 I'm interested in photography (find my [Unsplash](https://unsplash.com/@amirdeljuyi) 😄), cycling, dancing and gifs
 
 #### You can find my projects in several categories:
 
