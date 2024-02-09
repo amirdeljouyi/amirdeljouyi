@@ -3,7 +3,7 @@
 - 🔭 I am currently doing my Ph.D. at the [TU Delft](https://www.tudelft.nl/) in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/), and in the [TestShift Lab](https://testshiftproject.github.io/).
 - 🌱 It is my current priority to improve my skills in ```languages```, including learning ```Dutch``` and becoming more proficient in ```English```
 - 📚 I'm currently reading ```the course of love``` by Alain de Botton
-- 💫 I enjoy photography (check out my [Unsplash](https://unsplash.com/@amirdeljuyi) 😄), cycling, dancing and gifs
+- 💫 I enjoy photography (check out my [Unsplash](https://unsplash.com/@amirdeljuyi) 😄), cycling
 - 😄 Pronouns: he / his 
 
 #### You can find my projects in several categories:
